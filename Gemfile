@@ -17,6 +17,7 @@ gem 'jquery-rails', '2.0.2'
 
 group :test do 
   gem 'capybara', '1.1.2'
+  gem "nyan-cat-formatter"
 end
 
 group :production do 
